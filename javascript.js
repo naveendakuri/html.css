@@ -7,3 +7,9 @@ if (a>b){
 else{
   console.log("b is grater than a");
 }
+for(let i=0;i<=a;i++){
+  console.log(i);
+}
+for(let j=0;j<=b;j++){
+  console.log(j);
+}
